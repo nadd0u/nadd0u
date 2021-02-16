@@ -1,9 +1,15 @@
-### Hi there 👋
+
 
 <!--
 **nadd0u/nadd0u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+✨ Hiii ✨ Im nadia Im a data scientist in Chicago. My projects on github are mainly written in R and Python and include predictive models including ones using computer vision, natural language processing and generative adversarial models. Ive also built some mobile apps using javascript and node. 
+you can find me @ linkedin.com/in/nadia-nm 
+ thank u for visiting 💕
+ </p>
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
