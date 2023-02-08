@@ -11,7 +11,7 @@
 
 
 <p align="center">
-![alt text]([[http://url/to/img.png](https://i.pinimg.com/564x/cd/43/f1/cd43f1eb3ba307c531ba80bc6ac41e1c.jpg](https://github.com/nadd0u/pic/blob/main/pic.jpeg)))
+![alt text](https://github.com/nadd0u/pic/blob/main/pic.jpeg)
   <br><br>
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
   <br><br>
